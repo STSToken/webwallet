@@ -1,3 +1,3 @@
 # webwallet
 
-run '<pre>composer install</pre>' first
+run 'composer install' first
